@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/pages/tutorial-list.md" line="10" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/pages/tutorial-list.md" line="18" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="315f3354-e282-4ff9-b85c-d513df4651ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guides.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-04-24-hello-world-again.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-04-24-hello-world.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/core-samples/2011-12-29-jekyll-introduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/about.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories.html" afterPath="$PROJECT_DIR$/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/twitter/css/style.css" afterPath="$PROJECT_DIR$/assets/themes/twitter/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags.html" afterPath="$PROJECT_DIR$/tags.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/tutorial-bookmark.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/tutorial-brand.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/tutorial-ingredient.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/tutorial-meta.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/tutorial-photo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/tutorial-plan.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/tutorial-queue.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/recipe/create-a-recipe.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guides.html" afterPath="$PROJECT_DIR$/guides.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tutorial-list.md" afterPath="$PROJECT_DIR$/pages/tutorial-list.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tutorial-location.md" afterPath="$PROJECT_DIR$/pages/tutorial-location.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tutorial-recipe.md" afterPath="$PROJECT_DIR$/pages/tutorial-recipe.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kmapi.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366847750196" ignored="false" />
+    <file path="/Dummy.txt" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367262690712" ignored="false" />
     <file path="/_config.yml" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366850392062" ignored="false" />
     <file path="/2013-04-24-hello-world-again.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366852843130" ignored="false" />
     <file path="/about.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366919181351" ignored="false" />
-    <file path="/a.dummy" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366852984887" ignored="false" />
+    <file path="/a.dummy" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367283383379" ignored="false" />
     <file path="/create-a-recipe.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366919306226" ignored="false" />
     <file path="/pages.html" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366927354111" ignored="false" />
     <file path="/recipe-create.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366926719254" ignored="false" />
@@ -39,7 +37,7 @@
     <file path="/authentication.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366925316309" ignored="false" />
     <file path="/README.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366926252632" ignored="false" />
     <file path="/recipe-update.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366926808242" ignored="false" />
-    <file path="/tutorial-recipe.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367015706893" ignored="false" />
+    <file path="/tutorial-recipe.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367283433406" ignored="false" />
     <file path="/tutorial-authentication.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1366927417645" ignored="false" />
     <file path="$PROJECT_DIR$/../mycrockpot/fuel/app/classes/model/user.php" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367001717275" ignored="false" />
     <file path="$PROJECT_DIR$/../mycrockpot/fuel/app/classes/model/admin.php" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367005256336" ignored="false" />
@@ -53,8 +51,28 @@
     <file path="/database.php" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367005886622" ignored="false" />
     <file path="/faq.html" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367008189241" ignored="false" />
     <file path="/style.css" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367008810585" ignored="false" />
-    <file path="/tutorial-list.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367019051479" ignored="false" />
-    <file path="/tutorial-location.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367022833310" ignored="false" />
+    <file path="/tutorial-list.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367288246180" ignored="false" />
+    <file path="/tutorial-location.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367023625444" ignored="false" />
+    <file path="/guides.html" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367023842536" ignored="false" />
+    <file path="/tutorial-ingredient.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367286030619" ignored="false" />
+    <file path="/tutorial-meta.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367025962951" ignored="false" />
+    <file path="/tutorial-queue.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367027058087" ignored="false" />
+    <file path="/tutorial-bookmark.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367284287863" ignored="false" />
+    <file path="/tutorial-photo.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367028263632" ignored="false" />
+    <file path="/tutorial-plan.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367274951596" ignored="false" />
+    <file path="$PROJECT_DIR$/../mystuff/fuel/.htaccess" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367081813418" ignored="false" />
+    <file path="$PROJECT_DIR$/../kitchen-monki-api/.htaccess" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367080525408" ignored="false" />
+    <file path="$PROJECT_DIR$/../mystuff/.htaccess" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367082393643" ignored="false" />
+    <file path="/.htaccess" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367080812413" ignored="false" />
+    <file path="$PROJECT_DIR$/../mystuff/oil" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367081813418" ignored="false" />
+    <file path="$PROJECT_DIR$/../mystuff/fuel/app/classes/controller/welcome.php" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367081813418" ignored="false" />
+    <file path="$PROJECT_DIR$/../mystuff/fuel/app/views/welcome/index.php" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367081813418" ignored="false" />
+    <file path="$PROJECT_DIR$/../mystuff/fuel/app/config/routes.php" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367081813418" ignored="false" />
+    <file path="/.gitignore" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367082844122" ignored="false" />
+    <file path="$PROJECT_DIR$/../mystuff/.gitignore" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367082868551" ignored="false" />
+    <file path="$PROJECT_DIR$/../kitchen-monki-api/v2/public/assets/css/bootstrap.css" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367271474495" ignored="false" />
+    <file path="/bootstrap.css" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367271463173" ignored="false" />
+    <file path="/tutorial-brand.md" changelist="315f3354-e282-4ff9-b85c-d513df4651ae" time="1367282707918" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,46 +92,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="guides.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guides.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="22" selection-start="90" selection-end="90" vertical-scroll-proportion="-1.2">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial-recipe.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/tutorial-recipe.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="0" selection-start="1878" selection-end="1925" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial-list.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="tutorial-list.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/tutorial-list.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="251" column="42" selection-start="5015" selection-end="5015" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial-location.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/tutorial-location.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="46" selection-start="570" selection-end="570" vertical-scroll-proportion="0.4787234">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/themes/twitter/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="28" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0">
+            <state line="253" column="58" selection-start="6902" selection-end="6902" vertical-scroll-proportion="6.3297873">
               <folding />
             </state>
           </provider>
@@ -137,22 +119,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pages/about.md" />
-        <option value="$PROJECT_DIR$/pages/create-a-recipe.md" />
-        <option value="$PROJECT_DIR$/tags.html" />
-        <option value="$PROJECT_DIR$/categories.html" />
-        <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/pages/authentication.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pages/recipe-update.md" />
-        <option value="$PROJECT_DIR$/pages/recipe-create.md" />
         <option value="$PROJECT_DIR$/pages/tutorial-authentication.md" />
         <option value="$PROJECT_DIR$/pages.html" />
         <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/assets/themes/twitter/css/style.css" />
-        <option value="$PROJECT_DIR$/pages/tutorial-recipe.md" />
-        <option value="$PROJECT_DIR$/pages/tutorial-list.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-bookmark.html" />
+        <option value="$PROJECT_DIR$/guides.html" />
+        <option value="$PROJECT_DIR$/pages/tutorial-brand.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-plan.md" />
         <option value="$PROJECT_DIR$/pages/tutorial-location.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-meta.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-photo.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-queue.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-recipe.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-bookmark.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-ingredient.md" />
+        <option value="$PROJECT_DIR$/pages/tutorial-list.md" />
       </list>
     </option>
   </component>
@@ -178,7 +160,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -260,24 +242,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="pages">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="recipe">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="kmapi.github.com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="_posts">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -324,24 +288,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="themes/twitter">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="kmapi.github.com">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="_includes">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -350,10 +296,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mystuff" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -363,7 +310,7 @@
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -397,27 +344,47 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="3" y="22" width="1161" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289256" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24932736" sideWeight="0.6710744" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25201795" sideWeight="0.6710744" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -481,81 +448,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.1559792">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="30" selection-start="171" selection-end="171" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/categories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="38" selection-start="247" selection-end="247" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-25-this-api-is-the-best.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-25-best-way-to-update-a-recipe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/twitter/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="28" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/authentication.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="17" selection-end="41" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="63" column="28" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/faq.md">
@@ -567,28 +472,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/guides.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="90" selection-end="90" vertical-scroll-proportion="-1.2">
+        <state line="19" column="31" selection-start="336" selection-end="336" vertical-scroll-proportion="0.4070981" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-location.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.31914893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-meta.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.31914893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-photo.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.31914893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-plan.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-queue.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/authentication.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="134" selection-end="134" vertical-scroll-proportion="0.17375886">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-bookmark.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="0" selection-start="2377" selection-end="2377" vertical-scroll-proportion="2.180851">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-brand.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="27" selection-start="4536" selection-end="4536" vertical-scroll-proportion="0.41489363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tutorial-ingredient.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="0" selection-start="2891" selection-end="2891" vertical-scroll-proportion="0.2287234">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/tutorial-recipe.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="1878" selection-end="1925" vertical-scroll-proportion="0.0">
+        <state line="11" column="17" selection-start="210" selection-end="210" vertical-scroll-proportion="0.2925532">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/tutorial-list.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="251" column="42" selection-start="5015" selection-end="5015" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/tutorial-location.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="46" selection-start="570" selection-end="570" vertical-scroll-proportion="0.4787234">
+        <state line="253" column="58" selection-start="6902" selection-end="6902" vertical-scroll-proportion="6.3297873">
           <folding />
         </state>
       </provider>

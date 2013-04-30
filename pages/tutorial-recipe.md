@@ -1,11 +1,15 @@
 ---
 layout: page
-title: "Recipe Tutorials"
+title: "Recipes"
 description: "How to create a recipe"
 group: 'tutorial'
 ---
 {% include JB/setup %}
 
+
+Recipes are the central building block to using the Kitchen Monki API...
+
+-----------------
 
 * [creating a recipe](#create-recipe)
 * [updating a recipe](#update-recipe)

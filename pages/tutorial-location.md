@@ -1,11 +1,15 @@
 ---
 layout: page
-title: "Location Tutorials"
-description: "How to use locations"
+title: "Locations and Stores"
+description: "How to use locations and stores"
 group: 'tutorial'
 ---
 {% include JB/setup %}
 
+
+
+
+-----------------
 
 * [creating a location](#create-location)
 * [update a location](#update-location)
@@ -16,7 +20,6 @@ group: 'tutorial'
 * [removing locations](#delete-location)
 * [get a location](#get-location)
 * [get all locations](#get-all-locations)
-* [sample location response](#sample-location)
 
 -----------------
 

@@ -1,11 +1,19 @@
 ---
 layout: page
-title: "Grocery List Tutorials"
+title: "Grocery Lists"
 description: "How to create a list"
 group: 'tutorial'
 ---
 {% include JB/setup %}
 
+
+Grocery Shopping Lists are a powerful tool with which you can create lists of ingredients you will need
+to shop for, the brands and amounts of the ingredients, the stores where you want to shop, and even the
+aisles where to find each ingredient!  Lists can be created from a time period on your Meal Planner like,
+creating a shopping list of ingredients that are needed to cook all of the meals on the Planner for this
+week.  Duplicate ingredients will be combined even if they have different unit types.
+
+-----------------
 
 * [creating a grocery list](#create-list)
 * [adding a shopping item](#create-item)
@@ -20,7 +28,7 @@ group: 'tutorial'
 
 ### <a id="create-list">&nbsp;</a>Creating a list
 
-
+The first step is to create a shopping list, no parameters required.
 
 request:
 
@@ -52,7 +60,12 @@ successful response:
 
 ### <a id="create-item">&nbsp;</a>Adding an item to the list
 
-
+Adding ingredients to the list is done with the add list item call.  There are two required fields, the
+*ingredient_id* and the *list_id* of the list to add to which you created above.  The other parameters
+below help you to specify the brand, quantity and unit type, the store you want to purchase the item,
+any notes helpful while shopping for the item, and whether the ingredient is a custom ingredient or not.
+For the unit_text parameter, you provide a string.  Kitchen Monki supports most common units of measure
+and their abbreviations so "lbs" and "pounds" would map to the same unit of measure.
 
 request:
 
@@ -84,7 +97,11 @@ successful response:
 
 ### <a id="batch-create-item">&nbsp;</a>Batch adding an item to the list
 
-
+As with some other Kitchen Monki API calls where batch processing would be handy, batch adding items to
+a list can also be accomplished by providing an array of json objects.  As with the above api call -
+adding a singular item, *list_id* and *ingredient_id* are both required.  This example calls the same
+api call as above, however the difference is that the parameter "data" is provided, so Kitchen Monki
+attempts the batch creation functionality.
 
 data parameter in json format:
 
@@ -126,7 +143,8 @@ successful response:
 
 ### <a id="delete-list">&nbsp;</a>Deleting a list
 
-
+Deleting a list is similar to other delete api calls on Kitchen Monki and deleting a list will delete
+its associated list items from the system as well.
 
 request:
 
@@ -146,11 +164,11 @@ successful response:
 
 ### <a id="delete-item">&nbsp;</a>Deleting list items
 
-
+To delete a specific list item supply the *list_item_id* to the delete list item call.
 
 request:
 
-	curl -X DELETE 'http://devapi.kitchenmonki.com/v2/list/[list_id]/item' \
+	curl -X DELETE 'http://devapi.kitchenmonki.com/v2/list/[list_item_id]/item' \
 		-H "Authorization: Bearer [USER_TOKEN]" \
 
 successful response:
@@ -167,7 +185,9 @@ successful response:
 
 ### <a id="get-list">&nbsp;</a>Get a list
 
-
+Retrieving a list is easy, pass the *list_id* to the get list call and you will get back the list object
+in the data property of the response which contains all of the list items in the items property of the
+list object.
 
 request:
 
@@ -201,7 +221,7 @@ successful response:
 
 ### <a id="get-all-lists">&nbsp;</a>Get all lists
 
-
+To get a list of all of a user's list ids, make the get all lists api call.  No parameters are required.
 
 request:
 
@@ -231,7 +251,7 @@ successful response:
 
 ### <a id="sample-list">&nbsp;</a>Sample list response in json format
 
-
+Here is a more detailed example of a list response object.
 
 	{
 		"success":"get_grocery_list",
